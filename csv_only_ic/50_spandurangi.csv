@@ -1,0 +1,5 @@
+Instance ID,Vertices,Author,Source Image Filename,Timestamp,Class,Validated,Device Text,Board Text,Logo,Defect,Notes
+0,"[[[2004, 1401], [2004, 2093], [1536, 2093], [1536, 1401]]]",spandurangi,50.png,2020-11-25 10:06:30,IC,False,,,,False,
+1,"[[[3432, 1275], [3432, 1419], [3701, 1419], [3701, 1275]]]",spandurangi,50.png,2020-11-25 10:06:56,IC,False,,,,False,
+2,"[[[1279, 2666], [1279, 2790], [1442, 2790], [1442, 2666]]]",spandurangi,50.png,2020-11-25 10:07:11,IC,False,,,,False,
+3,"[[[3345, 2709], [3345, 2835], [3522, 2835], [3522, 2709]]]",spandurangi,50.png,2020-11-25 10:07:25,IC,False,,,,False,
