@@ -1,6 +1,10 @@
 # ic_synth_logo_code
 Code to Generate Script for IC SynthLogo
 
+Based on the work in IEEE: https://ieeexplore.ieee.org/abstract/document/9617352
+
+Citation: https://ieeexplore.ieee.org/abstract/document/9617352
+
 The entire SynthLogo dataset is too large to be uploaded to Github, thus we provide code which can generate the entire 28000+ Images and their corresponging annotations from the support datasets
 
 This repository contains the following support dataset to generate the synthetic IC images:
